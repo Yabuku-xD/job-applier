@@ -1,0 +1,5 @@
+pydf2
+selenium
+beautifulsoup4
+requests
+google-generativeai
